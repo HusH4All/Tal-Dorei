@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "f1cc3e967ab1afa8",
+    "type": "split",
+    "children": [
+      {
+        "id": "86ccceb3f85e4bcd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b5bd92155283d501",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "db3c5ff2fa2b16dd",
+    "type": "split",
+    "children": [
+      {
+        "id": "84bb1f05db9d8639",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "12ddd2edd53c07a0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "86c0ba2ccbf52146",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "addcb4fba6c9ce33",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "56d1c981a92f345d",
+    "type": "split",
+    "children": [
+      {
+        "id": "530042aef89a92d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6ddbe91e11804198",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1d4df33cabb4b4aa",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "206e2f732d037f65",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7e29e48d96705a7f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "9fea08c00d3aed96",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "12ddd2edd53c07a0",
+  "lastOpenFiles": [
+    "Tal-Dorei",
+    "Calendario, tiempo y el cosmos/Untitled.canvas",
+    "2023-05-22.md",
+    "Calendario, tiempo y el cosmos/Calendario, tiempo y el cosmos.md",
+    "Untitled",
+    "Panteon de Exandria/Panteon de Exandria.md",
+    "Calendario, tiempo y el cosmos",
+    "Historia",
+    "Calendario",
+    "Calendario, tiempo y el cosmos/Planos",
+    "Calendario, tiempo y el cosmos/Catha y Ruidus",
+    "Geografia",
+    "Geografia/Otras Tierras",
+    "Geografia/Llanuras Verdosas",
+    "Geografia/Peninsula de Rifenmist"
+  ]
+}

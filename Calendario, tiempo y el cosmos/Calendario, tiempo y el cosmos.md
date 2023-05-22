@@ -1,0 +1,3 @@
+El mundo de Exandria es un planeta con estaciones regulares y una amplia variedad de climas, que van desde las heladas capas de hielo hasta los desiertos áridos, los bosques templados, las llanuras azotadas por el viento, las junglas sofocantes y los océanos agitados por las tormentas. Orbita alrededor de un solo sol, que a su vez es orbitado por dos lunas, y está rodeado de estrellas distantes que titilan en los cielos nocturnos.
+
+Los antiguos habitantes de Exandria medían el tiempo a través de estos cuerpos celestiales, y los elfos crearon un calendario basado en sus movimientos.
