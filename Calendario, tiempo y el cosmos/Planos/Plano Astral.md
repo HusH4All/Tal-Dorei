@@ -1,0 +1,3 @@
+Todos los planos anteriores existen directamente adyacentes al Plano Material, apoyando y ocasionalmente mezclándose con sus habitantes. Todos los planos que siguen están separados del mundo material por un vasto mar de luz estelar, asteroides estériles y nebulosas brumosas de magia impredecible. En el pasado antiguo, los arcanistas tenían que crear embarcaciones para navegar por el peligroso mar de estrellas y viajar entre su plano de origen y los misteriosos Planos Exteriores.
+
+En la actualidad, la magia como el conjuro de cambio de plano ha permitido a los viajeros planares evitar estos métodos, pero aún existen numerosas criaturas extrañas y semidioses olvidados y encarcelados que flotan eternamente a través del Mar Cósmico.

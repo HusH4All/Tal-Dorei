@@ -4,5 +4,7 @@
   "obsidian-icon-folder",
   "obsidian-kanban",
   "obsidian-mind-map",
-  "obsidian-outliner"
+  "obsidian-outliner",
+  "obsidian-git",
+  "make-md"
 ]

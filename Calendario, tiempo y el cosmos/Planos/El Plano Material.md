@@ -1,0 +1,1 @@
+Es una tierra donde las leyes naturales funcionan como esperamos. Es un lugar de los cuatro elementos, de plantas, animales y minerales. Exandria es solo uno de los muchos mundos en el Plano Material, aunque solo los astrónomos más expertos son conscientes de este hecho, y mucho menos han ideado una forma de viajar entre mundos materiales.

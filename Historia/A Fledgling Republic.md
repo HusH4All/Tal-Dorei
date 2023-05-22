@@ -1,0 +1,35 @@
+El último acto de la vida del Soberano Uriel Tal'Dorei II fue abdicar al trono y poner fin a la línea de soberanos de manera permanente. Analizar los últimos actos históricos del Último Soberano es tarea de biógrafos y no de cronistas, sin embargo, se puede suponer fácilmente que él veía fallas inherentes a su posición. Uriel era hijo de Odellan Tal'Dorei, el soberano que evitó por sí solo que el consejo manejara rápidamente al Rey de las Cenizas cuando este surgió por primera vez en el desierto al sur del imperio.
+
+¿Cómo podría el Último Soberano no sentir que el inmenso poder de su cargo para anular las decisiones del consejo fue lo que en última instancia costó la vida a miles de ciudadanos leales? ¿Cómo no podría comparar el poder único del soberano con los abusos de poder cometidos por el Rey Drassig en tiempos antiguos?
+
+Independientemente de sus sentimientos privados, el último acto de Uriel II como soberano transformó la dinastía imperial de su familia en la República de Tal'Dorei. Zan Tal'Dorei estaba renuente a aceptar el papel único de gobernanza al comienzo de la nación, un ideal con el que tuvo que comprometerse para asegurar la estabilidad de su incipiente nación. El abandono de poder de Uriel es visto hoy como el cumplimiento de ese ideal. Será tarea de futuros historiadores juzgar si su decisión resistió la prueba del tiempo.
+
+## El Tiempo de Crecimiento
+
+El Consejo de Tal'Dorei ha guiado el destino de la nación desde que Vox Machina mató al Rey de las Cenizas. Durante la mayor parte de las últimas dos décadas, el objetivo del consejo ha sido reconstruir lo que se perdió y asegurar a los territorios lejanos que la incipiente república es tan estable como lo fue el imperio.
+
+La recuperación ha sido lenta tanto en el corazón de Tal'Dorei como en sus regiones más alejadas. Aunque ciudades como Kymal y Stilben no fueron objetivos directos del ataque de los dragones, la época de inestabilidad que siguió hizo que estas pequeñas ciudades fueran presa fácil para los bandidos errantes y los magistrados corruptos por igual. Incluso hoy en día, los asentamientos aislados son lentos en confiar en las buenas intenciones del Consejo de Tal'Dorei.
+
+Las ciudades principales como Westruun y Emon han sido los mayores beneficiarios del Tiempo de Crecimiento, ya que aunque sufrieron lo peor de la destrucción del Cónclave, los dragones también mantenían sus guaridas cerca, lo que permitió que vastas cantidades de riquezas saqueadas de sus tesoros fluyeran rápidamente de regreso a las arcas de estas ciudades. En los últimos veinte años, estas ciudades han contratado legiones de arcanistas para restaurar mágicamente gran parte de lo que se perdió.
+
+Sin embargo, tal vez la única ciudad que puede decir que se benefició directamente del reinado del caos del Cónclave Cromático es Whitestone, una antigua ciudad-estado independiente que ahora es miembro de la república. Whitestone acogió a innumerables refugiados de Emon después del ataque inicial del Cónclave, y a muchos más en su secuela. Aislada en las gélidas regiones nororientales de Tal'Dorei, Whitestone es una ciudad aislada, pero se ha convertido rápidamente en un centro de influencia política, cultural, artística y económica, para desagrado de algunos tradicionalistas en Emon.
+
+## El Fracaso de la Apoteosis
+
+El mundo se vio perturbado por una perturbación en Issylra un año después de la derrota del Cónclave Cromático, cuando un lich intentó alcanzar la deificación y aplastar a la Ciudad del Amanecer de Vasselheim de un solo golpe. Su éxito hubiera significado una catástrofe para el Plano Material, dejándolo como el único dios en este lado de la impenetrable Puerta Divina del mundo. Sin embargo, más allá de escuchar noticias de la participación de Vox Machina en este conflicto, pocos en Tal'Dorei se preocuparon por los rumores al otro lado del mundo.
+
+Aunque la derrota del lich lo confinó a una demiplano remota, no hay forma de despojarlo de su divinidad robada. Los adoradores ocultos aún se arrastran por los rincones más oscuros de Tal'Dorei, buscando el favor de un liche-dios conocido como el Susurrado.
+
+## Semillas de Peligro
+
+Ha transcurrido una generación en relativa paz. Sin embargo, todos aquellos que han estudiado historia saben que los conflictos de cada era siembran las semillas del siguiente. La República de Tal'Dorei ha demostrado que puede prosperar en tiempos de paz, pero aún no ha sido probada por las presiones de la guerra o un cataclismo sobrenatural.
+
+Después de dos décadas de costosas reconstrucciones e inversiones principescas en amarres de naves aéreas, la República de Tal'Dorei está profundamente endeudada con los arcanistas de todo el país. Entre ellos destaca la Liga de los Milagros, un consorcio de taumaturgos que ha acumulado fortunas incalculables gracias a las recompensas por la reconstrucción en todo el país.
+
+El simple hecho es que el costo de reconstruir Tal'Dorei fue mucho más alto de lo que el consejo o los líderes locales podían pagar. Lejos de que el Liceo Alabastro lance acusaciones sobre una organización tan beneficiosa, existen temores entre el pueblo de Tal'Dorei de que la liga ya haya comenzado a cobrar lo que se les debe en formas que no sean oro, a medida que más y más magos de la liga reciben un trato preferencial de margraves locales e incluso de miembros del propio Consejo de Tal'Dorei.
+
+Más allá de Emon, el paisaje de Tal'Dorei ha sido marcado para siempre por la presencia del Cónclave, especialmente del Rey de las Cenizas. Su fuego infernal dejó marcas en la tierra que nunca sanarán, heridas mágicas que sangran fuego y destilan magia caótica. Ciudades más pequeñas fuera del alcance del consejo han comenzado a sucumbir a influencias siniestras. Demonios y diablos se arrastran hacia el mundo, convocados por poderes ocultos que responden a voces malignas desde más allá de la Puerta Divina.
+
+Los Dioses Traidores sienten debilidad en el mundo. La furia entrópica del Olvido Encadenado hierve bajo Gatshadow. La hoja perdida de Neminar el Dedo Negro llama desde las Colinas de Umbra a un nuevo amo. La Serpiente Encapuchada levanta ejércitos al sur de Syngorn. Los cultos del Susurrado, ahora divino, se extienden como veneno por las venas de las ciudades de Tal'Dorei.
+
+Sin embargo, a pesar de estas amenazas, los legendarios héroes de Vox Machina han dejado en gran medida sus espadas, armas de fuego y hechizos para asumir el manto de liderazgo. Han pasado más de veinte años desde sus mayores aventuras, y aunque los miembros sobrevivientes de Vox Machina siguen siendo gobernantes astutos y guerreros ingeniosos, el Consejo de Tal'Dorei ya no puede depender de sus habilidades como antes. Rumores sobre su retiro permanente se propagan, inspirando temor y nostalgia en muchas personas, pero los aventureros de todo el país ven esto como una oportunidad para alcanzar el nivel de Vox Machina y más allá.

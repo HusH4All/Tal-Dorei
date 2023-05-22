@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "86ccceb3f85e4bcd",
+        "id": "1a5ccb6851ce2569",
         "type": "tabs",
         "children": [
           {
-            "id": "b5bd92155283d501",
+            "id": "00d76a3fbf568933",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Historia/Mito de Exandria.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "archivo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,6 +62,14 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "61a0c7aadcfa81aa",
+            "type": "leaf",
+            "state": {
+              "type": "mk-file-view",
               "state": {}
             }
           }
@@ -81,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Historia/Mito de Exandria.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Historia/Mito de Exandria.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Historia/Mito de Exandria.md"
+              }
             }
           },
           {
@@ -129,7 +145,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -146,22 +163,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "12ddd2edd53c07a0",
+  "active": "00d76a3fbf568933",
   "lastOpenFiles": [
+    "Historia/La Calamidad.md",
+    "Historia/Historia.md",
+    "Las Lealtades de Tal'Dorei/Panteon de Exandria/Panteon de Exandria.md",
+    "Historia/Mito de Exandria.md",
+    "Las Lealtades de Tal'Dorei/Las Lealtades de Tal'Dorei.md",
+    "Las Lealtades de Tal'Dorei",
+    "Untitled.md",
+    "Historia/Secretos de Tal’Dorei.md",
+    "Historia/A Fledgling Republic.md",
+    "Historia/Tal’Dorei Ascendiente.md",
+    "Historia/La Divergencia.md",
+    "Historia/Origenes de Tal'Dorei.md",
+    "Calendario, tiempo y el cosmos/Planos/Planos de Hadas, Sombras y Éter.md",
+    "Calendario, tiempo y el cosmos/Planos/Planos.md",
+    "Calendario, tiempo y el cosmos/Calendario, tiempo y el cosmos.md",
+    "Context/spacesLastSync.log",
+    "Context",
+    "Calendario, tiempo y el cosmos/Untitled Kanban.md",
+    "2023-05-22.md",
+    "Calendario, tiempo y el cosmos/Calendario y tiempo.md",
+    "Calendario, tiempo y el cosmos/Calendario/Calendario.md",
+    "Historia/Mito de Exandria/Mito de Exandria.md",
+    "Historia/Mito de Exandria/La Ira de los Primordiales.md",
+    "Historia/Mito de Exandria/La Fundación.md",
+    "Historia/Mito de Exandria",
+    "Calendario, tiempo y el cosmos/Planos/Reinos Lejanos.md",
+    "Calendario, tiempo y el cosmos/Planos/Demiplanos.md",
+    "Calendario, tiempo y el cosmos/Planos/Planos Exteriores.md",
+    "Calendario, tiempo y el cosmos/Planos/Plano Astral.md",
+    "Calendario, tiempo y el cosmos/Planos/Planos Elementales.md",
+    "Calendario, tiempo y el cosmos/Calendario",
     "Tal-Dorei",
     "Calendario, tiempo y el cosmos/Untitled.canvas",
-    "2023-05-22.md",
-    "Calendario, tiempo y el cosmos/Calendario, tiempo y el cosmos.md",
-    "Untitled",
-    "Panteon de Exandria/Panteon de Exandria.md",
     "Calendario, tiempo y el cosmos",
     "Historia",
     "Calendario",
-    "Calendario, tiempo y el cosmos/Planos",
-    "Calendario, tiempo y el cosmos/Catha y Ruidus",
-    "Geografia",
-    "Geografia/Otras Tierras",
-    "Geografia/Llanuras Verdosas",
-    "Geografia/Peninsula de Rifenmist"
+    "Calendario, tiempo y el cosmos/Planos"
   ]
 }
