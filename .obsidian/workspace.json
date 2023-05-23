@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "1a5ccb6851ce2569",
+        "id": "d82b3d4ff7d18851",
         "type": "tabs",
         "children": [
           {
-            "id": "00d76a3fbf568933",
+            "id": "30ddf5b069ab4ab1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Historia/Mito de Exandria.md",
+                "file": "Las Lealtades de Tal'Dorei/Panteon de Exandria/Los Dioses Traidores/El Emperador del Conflicto.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4e94ff1b66d1e48c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Las Lealtades de Tal'Dorei/Panteon de Exandria/Los Dioses Traidores/El Susurrado.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -66,14 +79,15 @@
             }
           },
           {
-            "id": "61a0c7aadcfa81aa",
+            "id": "f64680b6da836c93",
             "type": "leaf",
             "state": {
               "type": "mk-file-view",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -93,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Historia/Mito de Exandria.md",
+                "file": "Las Lealtades de Tal'Dorei/Panteon de Exandria/Los Dioses Traidores/El Susurrado.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Historia/Mito de Exandria.md",
+                "file": "Las Lealtades de Tal'Dorei/Panteon de Exandria/Los Dioses Traidores/El Susurrado.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Historia/Mito de Exandria.md"
+                "file": "Las Lealtades de Tal'Dorei/Panteon de Exandria/Los Dioses Traidores/El Susurrado.md"
               }
             }
           },
@@ -160,47 +174,58 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "00d76a3fbf568933",
+  "active": "4e94ff1b66d1e48c",
   "lastOpenFiles": [
-    "Historia/La Calamidad.md",
-    "Historia/Historia.md",
+    "Las Lealtades de Tal'Dorei/Panteon de Exandria/Los Dioses Primordiales/El Dragón de Platino.md",
+    "Las Lealtades de Tal'Dorei/Facciones y Sociedades/Los Guardianes de Syngorn.md",
+    "Imagenes y recursos/ps675C.tmp",
+    "Imagenes y recursos/Synkorn.png",
+    "Imagenes y recursos/Synkorn.png.opdownload",
+    "Imagenes y recursos/Syngorn.PNG",
+    "Las Lealtades de Tal'Dorei/Facciones y Sociedades/Los Remanentes.md",
+    "Imagenes y recursos/ps16A5.tmp",
+    "Imagenes y recursos/Remnants.PNG",
+    "Las Lealtades de Tal'Dorei/Facciones y Sociedades/El Myriad.md",
+    "Imagenes y recursos/ps133D.tmp",
+    "Imagenes y recursos/psF98E.tmp",
+    "Imagenes y recursos/Myriad.PNG",
+    "Las Lealtades de Tal'Dorei/Facciones y Sociedades/Libreria de la Orden de Cobalto.md",
+    "Imagenes y recursos/psC9E9.tmp",
+    "Imagenes y recursos/CobaltSoul.PNG",
+    "Las Lealtades de Tal'Dorei/Facciones y Sociedades/Liga de los Milagros.md",
+    "Las Lealtades de Tal'Dorei/Facciones y Sociedades/Casas de Kraghammer.md",
+    "Imagenes y recursos/ps7036.tmp",
+    "Imagenes y recursos/LeagueOfMiracles.PNG",
+    "Las Lealtades de Tal'Dorei/Facciones y Sociedades/Sonrisa Dorada.md",
+    "Imagenes y recursos/psB6F4.tmp",
+    "Imagenes y recursos/Krag.PNG",
+    "Las Lealtades de Tal'Dorei/Facciones y Sociedades/La Garra.md",
+    "Imagenes y recursos/ps85D0.tmp",
+    "Imagenes y recursos/GoldernGrin.PNG",
+    "Las Lealtades de Tal'Dorei/Facciones y Sociedades/Órdenes de Carmines.md",
+    "Imagenes y recursos/ps55F2.tmp",
+    "Imagenes y recursos/Clasp.PNG",
+    "Las Lealtades de Tal'Dorei/Facciones y Sociedades/La Cámara de Whitestone.md",
+    "Imagenes y recursos/ClaretOrders.PNG",
+    "Las Lealtades de Tal'Dorei/Facciones y Sociedades/Consejo de Tal'Dorei.md",
+    "Las Lealtades de Tal'Dorei/Facciones y Sociedades/Liga de los Luchadores.md",
+    "Las Lealtades de Tal'Dorei/Facciones y Sociedades/Los Ashari.md",
+    "Las Lealtades de Tal'Dorei/Facciones y Sociedades/La Arcana Pansophical.md",
+    "Las Lealtades de Tal'Dorei/Facciones y Sociedades/Facciones y Sociedades.md",
     "Las Lealtades de Tal'Dorei/Panteon de Exandria/Panteon de Exandria.md",
-    "Historia/Mito de Exandria.md",
-    "Las Lealtades de Tal'Dorei/Las Lealtades de Tal'Dorei.md",
-    "Las Lealtades de Tal'Dorei",
-    "Untitled.md",
-    "Historia/Secretos de Tal’Dorei.md",
-    "Historia/A Fledgling Republic.md",
-    "Historia/Tal’Dorei Ascendiente.md",
-    "Historia/La Divergencia.md",
-    "Historia/Origenes de Tal'Dorei.md",
-    "Calendario, tiempo y el cosmos/Planos/Planos de Hadas, Sombras y Éter.md",
-    "Calendario, tiempo y el cosmos/Planos/Planos.md",
-    "Calendario, tiempo y el cosmos/Calendario, tiempo y el cosmos.md",
-    "Context/spacesLastSync.log",
-    "Context",
-    "Calendario, tiempo y el cosmos/Untitled Kanban.md",
-    "2023-05-22.md",
-    "Calendario, tiempo y el cosmos/Calendario y tiempo.md",
-    "Calendario, tiempo y el cosmos/Calendario/Calendario.md",
-    "Historia/Mito de Exandria/Mito de Exandria.md",
-    "Historia/Mito de Exandria/La Ira de los Primordiales.md",
-    "Historia/Mito de Exandria/La Fundación.md",
-    "Historia/Mito de Exandria",
-    "Calendario, tiempo y el cosmos/Planos/Reinos Lejanos.md",
-    "Calendario, tiempo y el cosmos/Planos/Demiplanos.md",
-    "Calendario, tiempo y el cosmos/Planos/Planos Exteriores.md",
-    "Calendario, tiempo y el cosmos/Planos/Plano Astral.md",
-    "Calendario, tiempo y el cosmos/Planos/Planos Elementales.md",
-    "Calendario, tiempo y el cosmos/Calendario",
-    "Tal-Dorei",
-    "Calendario, tiempo y el cosmos/Untitled.canvas",
-    "Calendario, tiempo y el cosmos",
-    "Historia",
-    "Calendario",
-    "Calendario, tiempo y el cosmos/Planos"
+    "Las Lealtades de Tal'Dorei/Panteon de Exandria/Ídolos Menores/Vesh, la Sirena Sangrienta.md",
+    "Las Lealtades de Tal'Dorei/Panteon de Exandria/Ídolos Menores/El Viajero.md",
+    "Las Lealtades de Tal'Dorei/Panteon de Exandria/Ídolos Menores/El Sightless.md",
+    "Las Lealtades de Tal'Dorei/Panteon de Exandria/Ídolos Menores/El Observador.md",
+    "Las Lealtades de Tal'Dorei/Panteon de Exandria/Ídolos Menores/El Último Faro de Luz Desconocida.md",
+    "Las Lealtades de Tal'Dorei/Panteon de Exandria/Ídolos Menores/Kedive Xundi, Señor del Lodo Plateado.md",
+    "Las Lealtades de Tal'Dorei/Panteon de Exandria/Ídolos Menores/Graz'tchar, el Fin Decadente.md",
+    "Las Lealtades de Tal'Dorei/Panteon de Exandria/Ídolos Menores/Otros Campeones Aislados.md",
+    "Las Lealtades de Tal'Dorei/Panteon de Exandria/Ídolos Menores/Galdric, el Lobo Iluminado por la Luna.md",
+    "Calendario, tiempo y el cosmos/Untitled.canvas"
   ]
 }

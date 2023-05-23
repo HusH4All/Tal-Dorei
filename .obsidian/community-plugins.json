@@ -6,5 +6,6 @@
   "obsidian-mind-map",
   "obsidian-outliner",
   "obsidian-git",
-  "make-md"
+  "make-md",
+  "templater-obsidian"
 ]

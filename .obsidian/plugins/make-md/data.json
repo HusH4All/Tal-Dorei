@@ -15,7 +15,7 @@
   "saveAllContextToFrontmatter": true,
   "editorFlowStyle": "seamless",
   "autoOpenFileContext": false,
-  "activeView": "root",
+  "activeView": "all",
   "hideFrontmatter": true,
   "activeSpace": "",
   "spacesCompactMode": false,
@@ -37,16 +37,17 @@
   "expandedFolders": {
     "Tal-Dorei": [
       "Facciones y Sociedades",
-      "Historia",
-      "Historia",
-      "Calendario, tiempo y el cosmos",
-      "Calendario, tiempo y el cosmos/Planos"
+      "Las Lealtades de Tal'Dorei",
+      "Las Lealtades de Tal'Dorei/Panteon de Exandria",
+      "Las Lealtades de Tal'Dorei/Panteon de Exandria/Los Dioses Traidores",
+      "Las Lealtades de Tal'Dorei/Panteon de Exandria/Los Dioses Primordiales"
     ]
   },
   "expandedSpaces": [
     "/",
     null,
-    "Tal-Dorei"
+    "Tal-Dorei",
+    null
   ],
   "openFolders": [],
   "fileIcons": [],
@@ -76,7 +77,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1684759754500,
+  "spacesAutoBackupLast": 1684803694907,
   "spacesUseAlias": false,
   "precreateVaultSpace": true
 }

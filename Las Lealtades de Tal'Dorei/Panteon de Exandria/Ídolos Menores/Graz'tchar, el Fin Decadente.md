@@ -1,0 +1,5 @@
+Hace siglos, Zan Tal'Dorei derrotó al rey Trist Drassig en la Batalla de las Colinas Umbra. Drassig murió empuñando una espada llamada Graz'tchar, regalada por un astuto demonio entre las filas de los demonios otorgados por el Emperador de la Lucha. Zan dejó que la espada de Drassig quedara donde cayó, junto con su cuerpo.
+
+Esta espada contiene un fragmento del ego del Príncipe Demonio de la Indulgencia y lleva a cabo su voluntad anárquica y hedonista en el mundo. Desde una distancia de hasta mil millas desde su lugar de descanso en las Colinas Umbra, la voz de Graz'tchar puede escucharse débilmente en las mentes de aquellos a quienes alcanza, y se dice que solo aquel que haya escuchado la voz de la espada puede encontrarla entre las rocas negras de ese maldito campo de batalla.
+
+El Fin Decadente está dispuesto a otorgar poder a aquellos que lo acepten, incluso desde lejos. Prefiere poner a prueba a aquellos que escuchan su llamado antes de guiarlos a encontrarlo. Cuando llegue el momento en que alguien empuñe Graz'tchar una vez más, sus estadísticas de juego se encuentran en la página 195.

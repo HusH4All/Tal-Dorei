@@ -1,0 +1,9 @@
+Durante la Divergencia, los Prime Deities (Dioses Primordiales) crearon una poderosa barrera entre el Plano Material y los reinos sobrenaturales de los Planos Exteriores. Esta puerta selló a todos los dioses, incluidos los malvados Betrayer Gods (Dioses Traidores), dentro de sus respectivos dominios. Si la Divine Gate (Puerta Divina) fuera destruida por el esfuerzo unánime de los Prime Deities, todos los poderes se desatarían, amenazando el armagedón. Por lo tanto, los dioses observan pacientemente sus creaciones desde más allá del velo, ayudando a sus fieles con el pequeño poder que pueden enviar a través de la barrera.
+
+Algunos ídolos menores, como archidemonios, señores demoníacos, demonios y celestiales de poder casi divino, así como varios semidioses no registrados, residen entre los planos. Están afectados por la Divine Gate, lo que les impide cruzarla por su propia voluntad, pero no están tan atados a ella como para no poder ser convocados por la magia mortal.
+
+Los siguientes dioses se recomiendan como el panteón existente en Exandria, pero esto es solo una recomendación. Si el director de juego y los jugadores están de acuerdo, pueden adaptar, alterar o cambiar por completo los dioses en su campaña de Tal'Dorei para que se ajusten a sus necesidades. Los dominios divinos mencionados son las opciones probables para los seguidores de ese dios, pero no son las únicas opciones.
+
+## Dominios Divinos
+
+La mayoría de los clérigos pueden obtener su magia de un solo dios, o incluso de varios dioses que comparten dominios o provincias divinas. En última instancia, la forma en que su clérigo sirve a los dioses o sus filosofías religiosas principales es algo que debe discutir con su director de juego. Cada dios en este capítulo tiene dos o tres Dominios Divinos de los cuales muchos de sus clérigos obtienen poder.

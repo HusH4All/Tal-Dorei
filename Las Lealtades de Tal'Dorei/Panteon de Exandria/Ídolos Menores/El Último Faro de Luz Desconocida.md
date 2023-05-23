@@ -1,0 +1,9 @@
+En un tiempo antes del tiempo, cuando Exandria no era más que oscuridad en el caos antes de la Fundación, un ser luminoso llamado el Luxon buscaba respuestas sobre su existencia. Encendieron los primeros fuegos dentro de Exandria con su luz inextinguible y luego comenzaron a esperar.
+
+Los dioses vinieron. Crearon seres que se dispersaron por el planeta. Esas criaturas murieron y procrearon y murieron en un ciclo interminable, del cual el Luxon se volvió curioso. Seguramente, al observar a estas criaturas de vida corta, podrían aprender las respuestas que buscaban.
+
+Así que el Luxon dividió su propia luz en faros, cristales dodecaédricos de radiante eternidad. Los lanzaron por todo el mundo y cayeron en un profundo sueño, durante el cual esperaban que las personas los encontraran y se unieran a ellos, permitiendo que las almas mortales renacieran una y otra vez para poder aprender todo lo que hay que aprender sobre la existencia.
+
+Se han encontrado muchos de esos faros en todo el mundo, principalmente por un pueblo que ha aprendido las formas del Luxon en una tierra lejana. Sin embargo, muchos de los faros aún no se han contabilizado. Uno de esos faros fue descubierto hace unos diez años por colonos de Tal'Dorei en las Montañas de Cliffkeep, lejos de cualquier civilización. La gente de este asentamiento, Reaching Bluff, lo llama el Faro de la Luz Desconocida y lo trata como un oráculo místico que guiará a su joven asentamiento hacia la prosperidad.
+
+A pesar de los mejores esfuerzos de los colonos, la noticia de su descubrimiento ha escapado de Reaching Bluff. A medida que los aventureros y buscadores de tesoros comienzan a llegar, los colonos protegen su nuevo oráculo con devoción fanática, a pesar de que nunca les ha hablado, a pesar de que se lo han suplicado innumerables veces.

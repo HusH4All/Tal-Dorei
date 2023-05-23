@@ -1,0 +1,7 @@
+En los últimos años, se han extendido rumores sobre una deidad vestida de verde, de figura delgada y cabello rojo ardiente, en Tal'Dorei y en el continente vecino de Wildemount. Este bromista feérico, aunque no es un dios, ha disfrutado fingiendo serlo para sembrar el caos alegre en todo el mundo.
+
+Cientos de personas aisladas en Tal'Dorei han escuchado la voz del Viajero, o al menos han experimentado una de sus travesuras astutas. En el último año, una convención de devotos del Viajero se congregó en la diminuta isla de Rumblecusp en el Océano Lucidiano para exaltar su nombre y hazañas.
+
+Y luego, de repente, desapareció. Las historias de una deidad bromista que se extendían por Tal'Dorei se detuvieron, y algunos de sus antiguos adoradores colgaron sus capas en desilusión. Algo sucedió en Rumblecusp que sacudió la fe de docenas de adoradores del Viajero. Algunos ni siquiera regresaron.
+
+Pero sorprendentemente, a pesar de que el relato divino del Viajero ha sido abandonado por todos, los devotos del Viajero solo han aumentado en número y travesura alegre. La versión actual se acerca sorprendentemente a la verdad: que el Viajero es un poderoso señor del feérico. Este archifeérico, conocido como Artagan para unos pocos, desprecia la implacable presión de la divinidad de celebridad y solo quiere llevar alegría y liberación de responsabilidades a todos. Aún tiene mucho que aprender sobre los mortales y sobre cuándo una broma inofensiva deja de ser tan inofensiva después de todo.
